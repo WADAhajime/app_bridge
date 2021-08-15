@@ -13,6 +13,7 @@ module App
 
     config.generators do |g|
       g.assets false
+      # test ファイルを生成しない
       g.test_framework false
     end
 
