@@ -25,3 +25,6 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# vendor以下のファイルをGit管理対象から外す
+/vendor
